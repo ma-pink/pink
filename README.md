@@ -1,4 +1,4 @@
 # 空間PINK
 
-https://ma-pink.github.io/pink/
+https://pink-ma.github.io/pink/
 
