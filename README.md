@@ -1,4 +1,4 @@
 # label site 🖥️🎫
 
 ©︎ 2025 空間PINK all right reserved  
-https://pink.github.io
+[https://pink.github.io](https://ma-pink.github.io/pink/)
